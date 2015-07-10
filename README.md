@@ -1,6 +1,5 @@
 # ComboAlertView
-UIAlertView is deprecated in iOS 8.
-This instance can auto judge iOS version, then use UIAlertView in iOS7 and earlier, use UIAlertController in iOS8 and later.
+Based on the iOS version, ComboActionSheet applies compatible native components (could be UIAlertView or UIAlertController)
 
 # Usage:
 ComboAlertView *alert = [[ComboAlertView alloc] init];
