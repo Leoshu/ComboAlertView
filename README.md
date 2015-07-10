@@ -1,5 +1,5 @@
 # ComboAlertView
-Based on the iOS version, ComboActionSheet applies compatible native components (could be UIAlertView or UIAlertController)
+Based on the iOS version, ComboAlertView applies compatible native components (could be UIAlertView or UIAlertController)
 
 # Usage:
 ComboAlertView *alert = [[ComboAlertView alloc] init];
